@@ -1,0 +1,45 @@
+#title h1 {
+    color: #000;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.5rem;
+    line-height: 1.2;
+    letter-spacing: 0.05rem;
+}
+
+#content p {
+    color: #0a0101;
+    text-align: left;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#nav button {
+    width: 200px; height: 50px;
+    background-color: #f5f5dc;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border: medium outset #fff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#nav button:hover {
+    background-color: #dcd4b9;
+}
+
+#nav text {
+    color: #5e8b7e;
+}
+
+.content {
+  max-width: 610px;
+  margin: auto;
+}
+
+.buttons {
+    max-width: 610px;
+    margin: auto;
+}
