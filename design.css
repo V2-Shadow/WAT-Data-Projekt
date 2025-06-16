@@ -14,7 +14,7 @@
 }
 
 #nav button {
-    width: 200px; height: 75‚px;
+    width: 200px; height: 75px;
     background-color: #f5f5dc;
     padding: 10px 15px;
     text-align: center;
@@ -29,7 +29,7 @@
 #nav button:hover {
     background-color: #dcd4b9;
 }
-‚
+
 #nav text {
     color: #5e8b7e;
 }
